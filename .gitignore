@@ -1,0 +1,9 @@
+# 凭据与运行状态：绝不进仓库
+state/
+inbox/
+outbox/
+qrcode.png
+.venv/
+__pycache__/
+*.log
+nohup.out
